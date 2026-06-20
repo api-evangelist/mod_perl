@@ -2,7 +2,7 @@ aid: mod_perl
 name: mod_perl
 description: mod_perl is an Apache HTTP Server module that embeds a Perl interpreter into the Apache web server, enabling high-performance Perl-based web applications and CGI scripting.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/mod_perl/refs/heads/main/apis.yml
 tags:
   - Apache

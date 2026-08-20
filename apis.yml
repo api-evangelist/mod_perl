@@ -17,6 +17,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mod_perl.p
 url: https://raw.githubusercontent.com/api-evangelist/mod_perl/refs/heads/main/apis.yml
 tags:
   - Apache
+  - Perl
+  - Web Server
+  - CGI
+tags_raw:
+  - Apache
   - mod_perl
   - Perl
   - Web Server
